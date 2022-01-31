@@ -1,7 +1,7 @@
 const element = (
     <div title="Outer div">
       <h1>Yonas Lemmi</h1>
-      
+      <img src="imgs/yl_profile.jpeg"></img>
       <p>Hello, my name is Yonas Lemmi. I am currently enrolled in Advanced Certificate in Web and Mobile Applications Development at SDSU.
          I am pursuing a masters in Computer Science, hopefully I can start in fall 2022.   
          
